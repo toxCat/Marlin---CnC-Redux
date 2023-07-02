@@ -15,6 +15,17 @@
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
 
+## MARLIN CnC REDUX
+
+This is an experimental fork to provide CnC Capabilities to the Anet A8 Controller. 
+
+Use at your own risk!!!
+
+<br>
+<br> 
+
+##
+
 ## Marlin 2.1 Bugfix Branch
 
 __Not for production use. Use with caution!__
